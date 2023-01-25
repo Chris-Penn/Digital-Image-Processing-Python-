@@ -5,3 +5,5 @@ You are given 3 text files, each with a list of numbers in them - which represen
 Each of those “pictures” contain one of three objects - a ball, brick, or cylinder.
 
 This program processes the images in each file.
+
+The .png files show the translated images produced by the program.
