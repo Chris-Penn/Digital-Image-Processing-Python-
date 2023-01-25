@@ -6,4 +6,4 @@ Each of those “pictures” contain one of three objects - a ball, brick, or cy
 
 This program processes the images in each file.
 
-The .png files show the translated images produced by the program.
+The .png files show the translated images produced by the program. 
